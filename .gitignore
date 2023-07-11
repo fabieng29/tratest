@@ -1,0 +1,6 @@
+.DS_Store
+.gitattributes
+*.txt
+
+#log files
+*.log
